@@ -1,2 +1,4 @@
-Hello this a write test file 
+Overwriting the the existing test file 
+This is the second line of the write file 
+Appending text to the current text file 
 This is the second line of the write file
