@@ -1,0 +1,2 @@
+Hello this a write test file 
+This is the second line of the write file
